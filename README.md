@@ -10,7 +10,8 @@
 
 
 <p><a href="https://github.com/235thuan/Aptech_Final_Project_BE.git"># Quản lý trường học BE  </a></p>
-
+<p><a href="https://github.com/235thuan/Aptech_Final_Project_FE_Admin.git"># Quản lý trường học FE_Admin </a></p>
+<p><a href="https://github.com/235thuan/Aptech_Final_Project_FE_Client.git"># Quản lý trường học FE_Client </a></p>
 
 **Languages I have used**
 
