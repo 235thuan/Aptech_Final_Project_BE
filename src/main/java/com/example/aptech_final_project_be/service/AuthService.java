@@ -1,8 +1,8 @@
 package com.example.aptech_final_project_be.service;
 
-import com.example.aptech_final_project_be.dto.DangKyRequest;
-import com.example.aptech_final_project_be.dto.DangNhapRequest;
-import com.example.aptech_final_project_be.dto.DangNhapResponse;
+import com.example.aptech_final_project_be.dto.request.DangKyRequest;
+import com.example.aptech_final_project_be.dto.request.DangNhapRequest;
+import com.example.aptech_final_project_be.dto.response.DangNhapResponse;
 import com.example.aptech_final_project_be.model.GiaoVien;
 import com.example.aptech_final_project_be.model.NguoiDung;
 import com.example.aptech_final_project_be.model.PhanQuyen;
@@ -19,7 +19,6 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

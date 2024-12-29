@@ -1,8 +1,8 @@
 package com.example.aptech_final_project_be.controller;
 
-import com.example.aptech_final_project_be.dto.DangKyRequest;
-import com.example.aptech_final_project_be.dto.DangNhapRequest;
-import com.example.aptech_final_project_be.dto.DangNhapResponse;
+import com.example.aptech_final_project_be.dto.request.DangKyRequest;
+import com.example.aptech_final_project_be.dto.request.DangNhapRequest;
+import com.example.aptech_final_project_be.dto.response.DangNhapResponse;
 import com.example.aptech_final_project_be.service.AuthService;
 import com.example.aptech_final_project_be.repository.BlacklistedTokenRepository;
 import com.example.aptech_final_project_be.service.JwtService;

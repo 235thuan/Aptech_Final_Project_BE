@@ -1,4 +1,4 @@
-package com.example.aptech_final_project_be.dto;
+package com.example.aptech_final_project_be.dto.request;
 
 import lombok.Data;
 import javax.validation.constraints.Email;

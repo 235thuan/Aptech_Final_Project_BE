@@ -1,4 +1,4 @@
-package com.example.aptech_final_project_be.dto;
+package com.example.aptech_final_project_be.dto.response;
 
 import lombok.Data;
 import lombok.AllArgsConstructor;
